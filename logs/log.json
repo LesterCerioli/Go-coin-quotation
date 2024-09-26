@@ -1,0 +1,45 @@
+{"timestamp":"2024-09-26 14:44:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:44:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:44:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:44:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:44:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 14:46:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:46:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:46:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:46:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:46:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 14:48:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:48:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:48:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:48:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:48:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 14:50:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:50:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:50:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:50:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:50:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 14:52:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:52:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:52:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:52:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:52:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 14:54:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:54:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:54:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:54:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:54:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 14:56:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:56:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:56:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:56:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:56:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 14:58:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:58:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:58:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 14:58:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 14:58:58","status":"Info","message":"USD is greater than ETH"}
+{"timestamp":"2024-09-26 15:00:58","status":"Failure","message":"Error fetching USD quote: Get \"https://api.example.com/usd\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 15:00:58","status":"Failure","message":"Error fetching EUR quote: Get \"https://api.example.com/eur\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 15:00:58","status":"Failure","message":"Error fetching ETH quote: Get \"https://api.example.com/eth\": dial tcp: lookup api.example.com: no such host"}
+{"timestamp":"2024-09-26 15:00:58","status":"Info","message":"EUR is greater than USD"}
+{"timestamp":"2024-09-26 15:00:58","status":"Info","message":"USD is greater than ETH"}
